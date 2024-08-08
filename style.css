@@ -1,0 +1,35 @@
+.para {
+  margin-top: 16px !important;
+  margin-bottom: 16px !important;
+  color: white;
+}
+
+.main {
+  margin-top: 100px;
+}
+
+.line {
+  opacity: 0.5;
+}
+
+.article {
+  margin-bottom: 16px;
+}
+
+.player-info {
+  color: rgba(236, 238, 239, 0.75);
+}
+/* 
+ol {
+  counter-reset: item;
+}
+
+ol li {
+  display: block;
+}
+
+ol li:before {
+  content: counter(item) ". ";
+  counter-increment: item;
+  color: white;
+} */
